@@ -5,7 +5,6 @@ import {HeroService} from './hero.service';
 import {OnInit} from 'angular2/core';
 
 @Component({
-	providers: [HeroService],
 	selector: 'my-heroes',
 	template: `
 		<h1>{{title}}</h1>
