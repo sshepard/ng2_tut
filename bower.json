@@ -1,0 +1,21 @@
+{
+  "name": "angular2-quickstart",
+  "description": "a tut",
+  "main": "index.html",
+  "authors": [
+    "Scott Shepard <scott.shepard@proquest.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sshepard/ng2_tut",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "proquest-uikit": "pqdev/ProQuest-UIKit#~1.3"
+  }
+}

@@ -4,3 +4,4 @@ node_modules
 app/*.js
 app/*.map
 typings
+bower_components
